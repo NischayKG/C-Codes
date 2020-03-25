@@ -5,7 +5,7 @@
 #include<string.h>
 #include<stdlib.h>
 #include<malloc.h>
-
+#include<stdbool.h>
 
 int main()
 {
